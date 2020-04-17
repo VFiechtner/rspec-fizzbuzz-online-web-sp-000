@@ -11,3 +11,4 @@ def fizzbuzz(number)
 end
 
 # Order does matter! Remember that "FizzBuzz" needs to go first otherwise it might stop early.
+# Need to check first to see if the number is divisible by 3 AND 5.
